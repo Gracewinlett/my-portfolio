@@ -1,0 +1,125 @@
+---
+title: ""
+---
+
+::::: top-section
+::: left
+# Tin Win Lett Moe Naing <br> (Grace Winlett)
+
+**MBA Candidate \| IT Specialist**
+
+[ <a href="mailto:twlnaing@gmail.com" aria-label="Email"><img src="email.png" alt="Email" class="contact-icon"/></a><a href="https://www.linkedin.com/in/grace-winlett-62262a55" aria-label="LinkedIn" target="_blank"><img src="LinkedIn_logo.png" alt="LinkedIn" class="contact-icon"/></a> ]{.icon-links}
+:::
+
+::: right
+<img src="headshot.jpg" alt="Professional Headshot" class="headshot"/>
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## About Me
+
+MBA candidate and software developer with 10+ years of experience delivering high-quality solutions across industries. Skilled in cloud computing, software development, process improvement, and team collaboration. Passionate about bridging technology and business to drive innovation, efficiency, and growth.
+
+------------------------------------------------------------------------
+
+## Key Skills & Strengths
+
+-   **Programming:** ASP.NET, MS SQL, HTML5, CSS, JavaScript, MVC\
+-   **Cloud & Architecture:** AWS, Client/Server\
+-   **Tools:** SVN, GIT, Bitbucket, Jira, Smartsheet, Tableau\
+-   **Project Management:** Agile, Requirements Gathering, Strategic Planning, Timeline Management\
+-   **Soft Skills:** Customer Handling, Networking, Negotiation, Team Leadership, Problem-Solving
+
+------------------------------------------------------------------------
+
+## Professional Experience
+
+**Sales Associate (Part Time)** \| Vessi Footwear Ltd. \| Oct 2024 – Present
+
+-   Participated in customer engagement, services, and retail operations.
+
+**Application Consultant** \| NCS Pte Ltd \| May 2021 – Dec 2023
+
+-   Delivered support and training for healthcare web systems across Singapore.
+
+-   Designed technical documentation and training materials.
+
+-   Provided software recommendations and collaborated on solution delivery.
+
+**Senior Software Engineer** \| Raptech Pte Ltd \| Aug 2019 – May 2021
+
+-   Led software development initiatives as technical lead.
+
+-   Provided guidance to junior engineers in complex system environments.
+
+-   Defined client solution requirements and provided technical support.
+
+**Software Engineer** \| NCS Pte Ltd \| Aug 2018 – Aug 2019
+
+-   Delivered user solutions under the Ministry of Healthcare Singapore.
+
+-   Conducted training and collaborated on software improvements.
+
+**Software Engineer** \| Raptech Pte Ltd \| Jan 2014 – July 2018
+
+-   Maintained and enhanced systems for MAS, National Arts Council, Parliament House, Temasek Holdings, etc.
+
+-   Analyzed technical solutions to meet customer needs.
+
+**Intern** \| Keppel Land International \| Feb 2013 – July 2013
+
+-   Developed SharePoint web portal (PIMS) for team collaboration.
+
+-   Gathered requirements, prepared documentation, and explored process improvements.
+
+------------------------------------------------------------------------
+
+## Projects
+
+**Data Analysis** \| Jan 2025 – Mar 2025\
+*Associated with University Canada West*
+
+This project was part of the final Cloud Computing project at University Canada West.\
+Key contributions:
+
+-   Exploratory data summarization for the Academics Department's Attendance Procedure\
+-   Descriptive analysis on the City of Vancouver’s business license dataset\
+-   Data wrangling for the Academics Department - Attendance Procedure\
+-   Data quality checks on the City of Vancouver’s business license dataset
+
+**Skills:** Cloud Computing, AWS Elastic Beanstalk, AWS Lambda, AWS Glue, AWS S3, Data Profiling, Data Cleaning, AWS ETL, Amazon Athena, AWS IAM, AWS Glue DataBrew, AWS Glue Crawlers, AWS CloudTrail
+
+------------------------------------------------------------------------
+
+## Volunteering
+
+- Run for Women Vancouver 2024 
+- Father’s Day Walk/Run 2024  
+- Vancouver Half Marathon 2024  
+- Under Armour Vancouver Eastside 10K 2024  
+- Brick New Year’s Run Vancouver 2025  
+- RunGo Dash for Dogs 2025  
+- Run for Women Vancouver 2025
+
+------------------------------------------------------------------------
+
+## Education
+
+-   **MBA**, University Canada West *(Anticipated Completion: June 2025*)\
+-   **Graduate Diploma in System Analysis**, National University of Singapore\
+-   **Master of Computer Sciences**, University of Computer Studies, Yangon\
+-   **Bachelor of Computer Sciences (Honours)**, University of Computer Studies, Yangon
+
+------------------------------------------------------------------------
+
+## Certifications
+
+-   [AWS Certified Cloud Practitioner](https://www.credly.com/badges/dde90078-8fcc-4e2e-bb6e-981d6067608c/linked_in_profile)\
+-   [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/cfa88a6f-ecef-4a40-a840-535f5cb1d797/linked_in_profile)\
+-   [AWS Certified Developer – Associate](https://www.credly.com/badges/d741b4e0-ac1c-4b5c-b4b6-bd4640ca4dec/linked_in_profile)\
+-   [Google Cloud Digital Leader](https://www.credential.net/087b18ec-bd12-4d3c-be11-ba208c06e8a6#acc.Ee5liODJ)\
+-   [Microsoft Azure Fundamentals](https://www.credential.net/437e182d-a98c-4e0d-a103-af4db34d5922#acc.BcFfshx5)\
+-   [Microsoft Azure Administrator Associate](https://www.credential.net/02f74be2-b148-47c0-9ea8-1045587650f4#acc.7FqAKMh4)\
+-   [Microsoft Power Platform Fundamentals](https://www.credential.net/f7ead51b-9c28-4271-80f4-10922bad617c#acc.K0bf6dux)
